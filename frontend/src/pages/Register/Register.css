@@ -1,0 +1,22 @@
+.register {
+    position:fixed;
+    padding:0;
+    margin:0;
+
+    top:0;
+    left:0;
+
+    width: 100%;
+    height: 100%;
+    background-color: white; /* For browsers that do not support gradients */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (min-width: 1000px) {
+    .register {
+        background-image: linear-gradient(to bottom right, #2E4BF2, #F2F2F2);
+    }
+}

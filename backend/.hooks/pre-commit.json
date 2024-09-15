@@ -1,0 +1,14 @@
+{
+    "type": "python",
+    "venvActivate": "../env/bin/activate",
+    "steps": [
+    {
+        "name": "black",
+        "command": "black ." 
+    },
+    {
+        "name": "isort",
+        "command": "isort ." 
+    }
+    ]
+}

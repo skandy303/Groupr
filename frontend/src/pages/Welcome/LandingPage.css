@@ -1,0 +1,9 @@
+.image-content {
+    width: 100%;
+}
+#action-button {
+    min-width: 10vw;
+    min-height: 5v;
+    font-size: 1.5em;
+    border-radius: 1em;
+}

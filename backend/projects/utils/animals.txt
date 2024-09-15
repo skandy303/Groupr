@@ -1,0 +1,100 @@
+parrots
+parakeets
+mares
+fishs
+warthogs
+jerboas
+salamanders
+chameleons
+bisons
+rhinoceroses
+moles
+lambs
+otters
+mongooses
+rats
+wildcats
+dormouses
+chickens
+mustangs
+chipmunks
+waterbucks
+llamas
+polar bears
+seals
+snakes
+bald eagles
+jaguars
+whales
+boars
+marmosets
+zebras
+eagle owls
+chinchillas
+bulls
+hippopotamuss
+minks
+canaries
+deers
+coatis
+antelopes
+highland cows
+beavers
+bears
+kangaroos
+addaxs
+gorillas
+orangutans
+anteaters
+meerkats
+lovebirds
+coyotes
+steers
+hogs
+bats
+walruses
+pandas
+foxes
+alligators
+cats
+dingos
+hedgehogs
+finches
+octopi
+frogs
+mules
+armadillos
+buffalos
+hyenas
+kittens
+porpoises
+silver foxes
+baboons
+argalis
+lions
+mooses
+dung beetles
+gila monsters
+turtles
+ponyies
+oryxs
+wolves
+jackals
+pumas
+snowy owls
+colts
+musk-oxs
+bunnies
+horses
+opossums
+gophers
+starfishes
+duckbill platypi
+reindeers
+lizards
+ocelots
+sloths
+cheetahs
+wombats
+monkeys
+rams
